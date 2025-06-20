@@ -1,0 +1,2 @@
+timestamp,account_id,transaction_amount,transaction_type,location,instrument,anomaly_flag,anomaly_score
+2024-06-21T10:10:00Z,acc_015,4000,transfer,Toronto,crypto ,-1,0.4976058405311492
